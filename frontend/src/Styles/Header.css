@@ -1,0 +1,171 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: green;
+    color: white;
+}
+
+.s-logo {
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    background: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 1%;
+    margin-left: 2%;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.login-block {
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.login-l {
+    margin: 10px;
+    font-weight: bold;
+}
+
+
+.btnFacebook { 
+    width: 200px;
+    height:35px;  
+    border-radius: 4px;
+    background: #3b5998;
+    color:white;
+    border:0px transparent;  
+    text-align: center;
+    margin:5px;
+    display: inline-block;
+  }
+  .btnGoogle { 
+    margin:5px;
+    width: 200px;
+    height:35px;
+    border-radius: 4px;
+    background: #db3236;
+    color:white;
+    border:0px transparent;
+    text-align: center;
+  }
+  .login_form{
+    margin: auto;
+    width: 200px;
+    border: none;
+    box-decoration-break: none;
+    padding-left: 20px;
+    background-color: white;
+}
+.login_title{
+    
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+
+}
+.close_button{
+    display: flex;
+    justify-content: end;
+   margin: 20px;
+}
+.form_input{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 0.5px solid;
+}
+.out_line{
+    text-align: center;
+}
+.login_button{
+    
+    text-align: center;
+    border: none;
+    background-color: green;
+    color: white;
+    width: 50%;
+   margin: 10px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.btn-facebook
+{
+    width: 200px;
+height: 45px;
+border-radius: 4px;
+background-color:rgb(35, 35, 185);
+color: white;
+text-align: center;
+margin: 1px;
+display:inline-block;
+border: 0px transparent;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn-google
+{
+position:absolute;
+width: 200px;
+height: 40px;
+border-radius: 4px;
+background-color:whitesmoke;
+color: darkblue;
+text-align: center;
+margin: 1px;
+display:inline-block;
+border: 0px transparent;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.s-logo {
+    text-align:center;
+    font-size: 25px;
+    color: #2c8b0f;
+    background: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    margin-left: 2%;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+/* .login-block {
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+} */
+
+.login {
+    height: 0px;
+    border: solid 1px white;
+    width: 0px;
+    margin: 10px;
+    font-weight: normal;
+    margin-left: 20px;
+    background: transparent;
+}
+
+.signUp {
+    font-weight: bold;
+    border: solid 1px white;
+    height: 30px;
+    padding: 3px;
+}
+.signupmodal
+{
+background-color:azure;
+
+
+}
